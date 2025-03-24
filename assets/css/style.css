@@ -1461,10 +1461,10 @@ p {
 /*===========================
          09.BLOG css
 ===========================*/
-.blog_image_sides {
+/* .blog_image_sides {
   width: 165px;
   height: 180px;
-}
+} */
 
 .single_blog {
   padding: 30px;
@@ -1814,11 +1814,11 @@ p {
 }
 
 .footer_about .social li .social_2 {
-  background-color: #c719d1;
+  background-color: #d13fd8;
 }
 
 .footer_about .social li .social_3 {
-  background-color: #606060;
+  background-color: #e43838;
 }
 
 .footer_about .social li .social_4 {
