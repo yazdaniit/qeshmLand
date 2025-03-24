@@ -77,7 +77,6 @@ h5,
 h6 {
   font-family: "Poppins", sans-serif;
   font-weight: 700;
-  color: #38424d;
   margin: 0px;
 }
 
@@ -87,10 +86,12 @@ h1 {
 
 h2 {
   font-size: 36px;
+  color: white;
 }
 
 h3 {
   font-size: 28px;
+  color: #38424d;
 }
 
 h4 {
